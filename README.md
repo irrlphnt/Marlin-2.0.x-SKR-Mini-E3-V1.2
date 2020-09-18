@@ -1,3 +1,5 @@
+My Marlin setup for Ender 3 with SKR mini E3 v1.2 board, filament runout sensor and 3DTouch probe plugged in to the z-endstop port.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
